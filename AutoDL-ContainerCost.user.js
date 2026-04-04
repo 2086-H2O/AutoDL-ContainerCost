@@ -1,9 +1,11 @@
 // ==UserScript==
 // @name         AutoDL 按容器实例 ID 统计控制台费用
 // @namespace    https://github.com/2086-H2O/AutoDL-ContainerCost
-// @version      1.0.0
+// @version      1.0.1
 // @description  支持在 AutoDL 控制台的 费用 > 收支明细/我的订单 按照多个容器 ID 来统计支出费用
 // @author       2086丷
+// @match        https://www.autodl.com/console/*
+// @match        https://autodl.com/console/*
 // @match        https://www.autodl.com/console/cost/incomeExpend*
 // @match        https://autodl.com/console/cost/incomeExpend*
 // @match        https://www.autodl.com/console/cost/order/list*
